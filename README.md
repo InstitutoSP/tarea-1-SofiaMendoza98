@@ -22,3 +22,4 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+nosotros lo que hicimos fue primero crearlo con el codigo html y luego pusimos el body para que se visualizara en la pagina. despues dividimos en 3 articulos ocpuando article. y en los tres pusimos subtitulos ocupando h3
