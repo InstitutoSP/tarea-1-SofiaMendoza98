@@ -22,3 +22,4 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+nosotros lo que hicimos fue primero crearlo con el codigo html y luego pusimos el body para que se visualizara en la pagina. despues dividimos en 3 articulos ocpuando article. y en los tres pusimos subtitulos ocupando h3, ocupamos p para poner parrafos, despues pusimos img para poner una foto y ocupamos src con el link de la imagen para identificar cual era la imagen que queriamos. cuando terminamos los tres articulos agregamos el pie de pagina con la etiqueta footer y dentro de esta pusimos un parrafo con p y con la etiqueta a agregamos el mail. luego cerramos todas las etiquetas que habiamos abierto como el htlm y el body.
